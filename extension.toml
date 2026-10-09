@@ -1,0 +1,7 @@
+[extension]
+id = "pomodoro_timer"
+name = "Pomodoro Timer"
+version = "0.1.0"
+description = "Pomodoro Timer extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
